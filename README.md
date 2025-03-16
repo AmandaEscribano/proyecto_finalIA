@@ -103,10 +103,10 @@ python
 Copy
 import openai
 
-# Clave API de OpenAI
+#Clave API de OpenAI
 openai.api_key = "TU_API_KEY"
 
-# Función para generar contenido de texto (Descripción de perfil, mensaje de conexión, etc.)
+#Función para generar contenido de texto (Descripción de perfil, mensaje de conexión, etc.)
 def generar_texto(prompt):
     response = openai.Completion.create(
         engine="text-davinci-003", 
@@ -115,7 +115,7 @@ def generar_texto(prompt):
     )
     return response.choices[0].text.strip()
 
-# Función para generar imagen (Banner de LinkedIn)
+#Función para generar imagen (Banner de LinkedIn)
 def generar_imagen(prompt):
     response = openai.Image.create(
         prompt=prompt,
@@ -124,7 +124,7 @@ def generar_imagen(prompt):
     )
     return response.data[0].url
 
-# Ejemplo de uso para generar un post y una imagen
+#Ejemplo de uso para generar un post y una imagen
 texto = generar_texto("Genera un post de LinkedIn sobre la importancia del networking en la industria tecnológica.")
 imagen_url = generar_imagen("Diseña un banner profesional para un perfil de LinkedIn de un data scientist.")
 
