@@ -1,7 +1,10 @@
 # Portada
 Nombre: Maria Amanda Escribano Arreseigor
+
 Curso: IA: Generación de Prompts - Carreras Intensivas
+
 Nº de Comisión: 71950
+
 Nombre del Proyecto: Automatización de Perfiles de LinkedIn para la Expansión Profesional
 
 # Proyecto: Automatización de Perfiles de LinkedIn para la Expansión Profesional
