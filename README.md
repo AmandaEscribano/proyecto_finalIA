@@ -1,3 +1,9 @@
+# Portada
+Nombre: Maria Amanda Escribano Arreseigor
+Curso: IA: Generación de Prompts - Carreras Intensivas
+Nº de Comisión: 71950
+Nombre del Proyecto: Automatización de Perfiles de LinkedIn para la Expansión Profesional
+
 # Proyecto: Automatización de Perfiles de LinkedIn para la Expansión Profesional
 ## Presentación del Problema
 Hoy en día, tener un perfil de LinkedIn atractivo y optimizado es crucial para acceder a nuevas oportunidades laborales y crear una red de contactos valiosa. Sin embargo, muchas personas altamente capacitadas carecen de los conocimientos o el tiempo necesario para optimizar sus perfiles, lo que limita su visibilidad y, por ende, sus oportunidades profesionales.
